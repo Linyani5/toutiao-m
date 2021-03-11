@@ -32,6 +32,7 @@
     "lint-staged": "^9.5.0",
     "vue-template-compiler": "^2.6.11"
   },
+  "_id": "toutiao-m@0.1.0",
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
@@ -40,5 +41,6 @@
       "vue-cli-service lint",
       "git add"
     ]
-  }
+  },
+  "readme": "ERROR: No README data found!"
 }
